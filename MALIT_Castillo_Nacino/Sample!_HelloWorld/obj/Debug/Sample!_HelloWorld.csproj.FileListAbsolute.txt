@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample!_HelloWorld\bin\Debug\Sample!_HelloWorld.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample!_HelloWorld\bin\Debug\Sample!_HelloWorld.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample!_HelloWorld\bin\Debug\Sample!_HelloWorld.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample!_HelloWorld\obj\Debug\Sample!_HelloWorld.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample!_HelloWorld\obj\Debug\Sample!_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample!_HelloWorld\obj\Debug\Sample!_HelloWorld.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample!_HelloWorld\obj\Debug\Sample!_HelloWorld.pdb

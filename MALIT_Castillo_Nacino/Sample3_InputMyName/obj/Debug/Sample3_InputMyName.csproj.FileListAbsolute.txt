@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_MEMBER\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.pdb
