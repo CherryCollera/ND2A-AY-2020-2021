@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\bin\Debug\netcoreapp3.1\Sample3.exe
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\bin\Debug\netcoreapp3.1\Sample3.deps.json
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\bin\Debug\netcoreapp3.1\Sample3.runtimeconfig.json
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\bin\Debug\netcoreapp3.1\Sample3.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\bin\Debug\netcoreapp3.1\Sample3.dll
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\bin\Debug\netcoreapp3.1\Sample3.pdb
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\obj\Debug\netcoreapp3.1\Sample3.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\obj\Debug\netcoreapp3.1\Sample3.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\obj\Debug\netcoreapp3.1\Sample3.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\obj\Debug\netcoreapp3.1\Sample3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\obj\Debug\netcoreapp3.1\Sample3.dll
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\obj\Debug\netcoreapp3.1\Sample3.pdb
+C:\Users\DELL\Desktop\Cuevas_Medina\Sample3\obj\Debug\netcoreapp3.1\Sample3.genruntimeconfig.cache
