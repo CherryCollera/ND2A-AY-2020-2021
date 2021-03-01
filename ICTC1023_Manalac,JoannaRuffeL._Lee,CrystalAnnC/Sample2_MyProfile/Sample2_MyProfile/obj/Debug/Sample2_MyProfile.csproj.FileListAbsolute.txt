@@ -1,0 +1,7 @@
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe.config
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.pdb
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.exe
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.pdb

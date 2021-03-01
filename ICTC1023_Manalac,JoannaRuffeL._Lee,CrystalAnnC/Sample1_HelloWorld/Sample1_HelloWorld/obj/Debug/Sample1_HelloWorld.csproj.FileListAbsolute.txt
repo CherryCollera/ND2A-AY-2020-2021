@@ -1,0 +1,7 @@
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.exe.config
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.exe
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.pdb
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.exe
+C:\Users\admin\OneDrive\Documents\ICTC1023_Manalac,JoannaRuffeL._Lee,CrystalAnnC\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.pdb
