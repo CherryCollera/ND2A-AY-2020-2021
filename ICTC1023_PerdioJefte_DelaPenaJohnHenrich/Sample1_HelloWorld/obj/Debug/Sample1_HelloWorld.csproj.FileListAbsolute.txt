@@ -1,0 +1,14 @@
+C:\Users\KN Tech\source\repos\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.exe.config
+C:\Users\KN Tech\source\repos\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.exe
+C:\Users\KN Tech\source\repos\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.pdb
+C:\Users\KN Tech\source\repos\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.csprojAssemblyReference.cache
+C:\Users\KN Tech\source\repos\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\KN Tech\source\repos\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.exe
+C:\Users\KN Tech\source\repos\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.pdb
+C:\Users\Acer\Documents\Activity\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.exe.config
+C:\Users\Acer\Documents\Activity\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.exe
+C:\Users\Acer\Documents\Activity\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.pdb
+C:\Users\Acer\Documents\Activity\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Activity\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Activity\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.exe
+C:\Users\Acer\Documents\Activity\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.pdb

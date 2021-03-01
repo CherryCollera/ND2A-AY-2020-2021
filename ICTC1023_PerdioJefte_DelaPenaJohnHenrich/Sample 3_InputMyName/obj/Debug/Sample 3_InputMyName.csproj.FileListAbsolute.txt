@@ -1,0 +1,13 @@
+C:\Users\KN Tech\source\repos\Sample 3_InputMyName\obj\Debug\Sample 3_InputMyName.csproj.CoreCompileInputs.cache
+C:\Users\KN Tech\source\repos\Sample 3_InputMyName\bin\Debug\Sample 3_InputMyName.exe.config
+C:\Users\KN Tech\source\repos\Sample 3_InputMyName\bin\Debug\Sample 3_InputMyName.exe
+C:\Users\KN Tech\source\repos\Sample 3_InputMyName\bin\Debug\Sample 3_InputMyName.pdb
+C:\Users\KN Tech\source\repos\Sample 3_InputMyName\obj\Debug\Sample 3_InputMyName.exe
+C:\Users\KN Tech\source\repos\Sample 3_InputMyName\obj\Debug\Sample 3_InputMyName.pdb
+C:\Users\Acer\Documents\Activity\Sample 3_InputMyName\bin\Debug\Sample 3_InputMyName.exe.config
+C:\Users\Acer\Documents\Activity\Sample 3_InputMyName\bin\Debug\Sample 3_InputMyName.exe
+C:\Users\Acer\Documents\Activity\Sample 3_InputMyName\bin\Debug\Sample 3_InputMyName.pdb
+C:\Users\Acer\Documents\Activity\Sample 3_InputMyName\obj\Debug\Sample 3_InputMyName.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Activity\Sample 3_InputMyName\obj\Debug\Sample 3_InputMyName.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Activity\Sample 3_InputMyName\obj\Debug\Sample 3_InputMyName.exe
+C:\Users\Acer\Documents\Activity\Sample 3_InputMyName\obj\Debug\Sample 3_InputMyName.pdb

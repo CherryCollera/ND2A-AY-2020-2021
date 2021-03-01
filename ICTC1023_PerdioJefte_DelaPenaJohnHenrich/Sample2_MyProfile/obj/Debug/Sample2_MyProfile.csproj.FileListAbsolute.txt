@@ -1,0 +1,14 @@
+C:\Users\KN Tech\source\repos\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe.config
+C:\Users\KN Tech\source\repos\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe
+C:\Users\KN Tech\source\repos\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.pdb
+C:\Users\KN Tech\source\repos\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.csprojAssemblyReference.cache
+C:\Users\KN Tech\source\repos\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.csproj.CoreCompileInputs.cache
+C:\Users\KN Tech\source\repos\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.exe
+C:\Users\KN Tech\source\repos\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.pdb
+C:\Users\Acer\Documents\Activity\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe.config
+C:\Users\Acer\Documents\Activity\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe
+C:\Users\Acer\Documents\Activity\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.pdb
+C:\Users\Acer\Documents\Activity\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Activity\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Activity\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.exe
+C:\Users\Acer\Documents\Activity\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.pdb
