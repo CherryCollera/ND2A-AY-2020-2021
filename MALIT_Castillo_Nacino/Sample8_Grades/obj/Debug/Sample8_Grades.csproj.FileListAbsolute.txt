@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample8_Grades\bin\Debug\Sample8_Grades.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample8_Grades\bin\Debug\Sample8_Grades.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample8_Grades\bin\Debug\Sample8_Grades.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample8_Grades\obj\Debug\Sample8_Grades.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample8_Grades\obj\Debug\Sample8_Grades.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample8_Grades\obj\Debug\Sample8_Grades.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample8_Grades\obj\Debug\Sample8_Grades.pdb

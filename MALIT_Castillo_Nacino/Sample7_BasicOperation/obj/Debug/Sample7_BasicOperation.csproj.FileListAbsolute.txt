@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample7_BasicOperation\bin\Debug\Sample7_BasicOperation.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample7_BasicOperation\bin\Debug\Sample7_BasicOperation.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample7_BasicOperation\bin\Debug\Sample7_BasicOperation.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample7_BasicOperation\obj\Debug\Sample7_BasicOperation.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample7_BasicOperation\obj\Debug\Sample7_BasicOperation.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample7_BasicOperation\obj\Debug\Sample7_BasicOperation.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample7_BasicOperation\obj\Debug\Sample7_BasicOperation.pdb

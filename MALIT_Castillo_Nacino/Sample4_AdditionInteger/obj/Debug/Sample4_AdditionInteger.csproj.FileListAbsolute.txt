@@ -1,0 +1,7 @@
+C:\Users\uno\source\repos\Sample4_AdditionInteger\bin\Debug\Sample4_AdditionInteger.exe.config
+C:\Users\uno\source\repos\Sample4_AdditionInteger\bin\Debug\Sample4_AdditionInteger.exe
+C:\Users\uno\source\repos\Sample4_AdditionInteger\bin\Debug\Sample4_AdditionInteger.pdb
+C:\Users\uno\source\repos\Sample4_AdditionInteger\obj\Debug\Sample4_AdditionInteger.csprojAssemblyReference.cache
+C:\Users\uno\source\repos\Sample4_AdditionInteger\obj\Debug\Sample4_AdditionInteger.csproj.CoreCompileInputs.cache
+C:\Users\uno\source\repos\Sample4_AdditionInteger\obj\Debug\Sample4_AdditionInteger.exe
+C:\Users\uno\source\repos\Sample4_AdditionInteger\obj\Debug\Sample4_AdditionInteger.pdb

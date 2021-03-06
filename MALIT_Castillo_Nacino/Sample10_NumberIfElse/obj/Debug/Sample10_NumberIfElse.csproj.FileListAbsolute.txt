@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample10_NumberIfElse\bin\Debug\Sample10_NumberIfElse.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample10_NumberIfElse\bin\Debug\Sample10_NumberIfElse.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample10_NumberIfElse\bin\Debug\Sample10_NumberIfElse.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample10_NumberIfElse\obj\Debug\Sample10_NumberIfElse.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample10_NumberIfElse\obj\Debug\Sample10_NumberIfElse.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample10_NumberIfElse\obj\Debug\Sample10_NumberIfElse.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample10_NumberIfElse\obj\Debug\Sample10_NumberIfElse.pdb
