@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample12_Switch\bin\Debug\Sample12_Switch.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample12_Switch\bin\Debug\Sample12_Switch.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample12_Switch\bin\Debug\Sample12_Switch.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample12_Switch\obj\Debug\Sample12_Switch.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample12_Switch\obj\Debug\Sample12_Switch.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample12_Switch\obj\Debug\Sample12_Switch.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample12_Switch\obj\Debug\Sample12_Switch.pdb

@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample11_GradingSystem\obj\Debug\Sample11_GradingSystem.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample11_GradingSystem\obj\Debug\Sample11_GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample11_GradingSystem\bin\Debug\Sample11_GradingSystem.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample11_GradingSystem\bin\Debug\Sample11_GradingSystem.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample11_GradingSystem\bin\Debug\Sample11_GradingSystem.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample11_GradingSystem\obj\Debug\Sample11_GradingSystem.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample11_GradingSystem\obj\Debug\Sample11_GradingSystem.pdb

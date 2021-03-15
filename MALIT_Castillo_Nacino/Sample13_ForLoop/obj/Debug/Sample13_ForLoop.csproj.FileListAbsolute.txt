@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample13_ForLoop\bin\Debug\Sample13_ForLoop.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample13_ForLoop\bin\Debug\Sample13_ForLoop.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample13_ForLoop\bin\Debug\Sample13_ForLoop.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample13_ForLoop\obj\Debug\Sample13_ForLoop.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample13_ForLoop\obj\Debug\Sample13_ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample13_ForLoop\obj\Debug\Sample13_ForLoop.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\Sample13_ForLoop\obj\Debug\Sample13_ForLoop.pdb
