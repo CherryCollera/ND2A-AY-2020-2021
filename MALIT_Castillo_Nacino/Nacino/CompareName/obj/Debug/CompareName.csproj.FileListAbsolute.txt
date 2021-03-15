@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\CompareName\bin\Debug\CompareName.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\CompareName\bin\Debug\CompareName.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\CompareName\bin\Debug\CompareName.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\CompareName\obj\Debug\CompareName.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\CompareName\obj\Debug\CompareName.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\CompareName\obj\Debug\CompareName.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\CompareName\obj\Debug\CompareName.pdb

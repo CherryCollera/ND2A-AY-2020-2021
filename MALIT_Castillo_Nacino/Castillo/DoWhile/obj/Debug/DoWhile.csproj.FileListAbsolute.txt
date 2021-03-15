@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\DoWhile\bin\Debug\DoWhile.exe.config
+C:\Users\uno\Documents\ICTC1023\DoWhile\bin\Debug\DoWhile.exe
+C:\Users\uno\Documents\ICTC1023\DoWhile\bin\Debug\DoWhile.pdb
+C:\Users\uno\Documents\ICTC1023\DoWhile\obj\Debug\DoWhile.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\DoWhile\obj\Debug\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\DoWhile\obj\Debug\DoWhile.exe
+C:\Users\uno\Documents\ICTC1023\DoWhile\obj\Debug\DoWhile.pdb

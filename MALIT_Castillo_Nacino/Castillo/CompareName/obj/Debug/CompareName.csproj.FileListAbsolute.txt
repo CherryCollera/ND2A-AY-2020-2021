@@ -1,0 +1,6 @@
+C:\Users\uno\Documents\ICTC1023\CompareName\bin\Debug\CompareName.exe.config
+C:\Users\uno\Documents\ICTC1023\CompareName\bin\Debug\CompareName.exe
+C:\Users\uno\Documents\ICTC1023\CompareName\bin\Debug\CompareName.pdb
+C:\Users\uno\Documents\ICTC1023\CompareName\obj\Debug\CompareName.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\CompareName\obj\Debug\CompareName.exe
+C:\Users\uno\Documents\ICTC1023\CompareName\obj\Debug\CompareName.pdb

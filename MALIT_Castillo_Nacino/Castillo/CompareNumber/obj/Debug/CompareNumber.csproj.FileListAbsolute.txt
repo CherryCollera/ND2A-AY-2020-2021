@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\CompareNumber\bin\Debug\CompareNumber.exe.config
+C:\Users\uno\Documents\ICTC1023\CompareNumber\bin\Debug\CompareNumber.exe
+C:\Users\uno\Documents\ICTC1023\CompareNumber\bin\Debug\CompareNumber.pdb
+C:\Users\uno\Documents\ICTC1023\CompareNumber\obj\Debug\CompareNumber.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\CompareNumber\obj\Debug\CompareNumber.exe
+C:\Users\uno\Documents\ICTC1023\CompareNumber\obj\Debug\CompareNumber.pdb
+C:\Users\uno\Documents\ICTC1023\CompareNumber\obj\Debug\CompareNumber.csprojAssemblyReference.cache
