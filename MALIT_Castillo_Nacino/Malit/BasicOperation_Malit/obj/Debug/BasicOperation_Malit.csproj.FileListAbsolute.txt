@@ -1,0 +1,14 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\BasicOperation_Malit\bin\Debug\BasicOperation_Malit.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\BasicOperation_Malit\bin\Debug\BasicOperation_Malit.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\BasicOperation_Malit\bin\Debug\BasicOperation_Malit.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\BasicOperation_Malit\obj\Debug\BasicOperation_Malit.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\BasicOperation_Malit\obj\Debug\BasicOperation_Malit.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\BasicOperation_Malit\obj\Debug\BasicOperation_Malit.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\BasicOperation_Malit\obj\Debug\BasicOperation_Malit.pdb
+C:\Users\uno\Documents\ICTC1023\Malit\BasicOperation_Malit\bin\Debug\BasicOperation_Malit.exe.config
+C:\Users\uno\Documents\ICTC1023\Malit\BasicOperation_Malit\bin\Debug\BasicOperation_Malit.exe
+C:\Users\uno\Documents\ICTC1023\Malit\BasicOperation_Malit\bin\Debug\BasicOperation_Malit.pdb
+C:\Users\uno\Documents\ICTC1023\Malit\BasicOperation_Malit\obj\Debug\BasicOperation_Malit.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\Malit\BasicOperation_Malit\obj\Debug\BasicOperation_Malit.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\Malit\BasicOperation_Malit\obj\Debug\BasicOperation_Malit.exe
+C:\Users\uno\Documents\ICTC1023\Malit\BasicOperation_Malit\obj\Debug\BasicOperation_Malit.pdb

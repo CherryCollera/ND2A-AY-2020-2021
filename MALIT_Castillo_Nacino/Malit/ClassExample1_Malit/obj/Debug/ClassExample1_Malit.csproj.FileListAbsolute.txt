@@ -1,0 +1,7 @@
+C:\Users\uno\source\repos\ClassExample1_Malit\bin\Debug\ClassExample1_Malit.exe.config
+C:\Users\uno\source\repos\ClassExample1_Malit\bin\Debug\ClassExample1_Malit.exe
+C:\Users\uno\source\repos\ClassExample1_Malit\bin\Debug\ClassExample1_Malit.pdb
+C:\Users\uno\source\repos\ClassExample1_Malit\obj\Debug\ClassExample1_Malit.csprojAssemblyReference.cache
+C:\Users\uno\source\repos\ClassExample1_Malit\obj\Debug\ClassExample1_Malit.csproj.CoreCompileInputs.cache
+C:\Users\uno\source\repos\ClassExample1_Malit\obj\Debug\ClassExample1_Malit.exe
+C:\Users\uno\source\repos\ClassExample1_Malit\obj\Debug\ClassExample1_Malit.pdb

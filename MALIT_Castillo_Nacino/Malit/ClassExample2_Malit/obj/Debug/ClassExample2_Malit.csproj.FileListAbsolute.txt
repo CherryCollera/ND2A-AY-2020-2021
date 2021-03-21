@@ -1,0 +1,14 @@
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\ConsoleApp1\obj\Debug\ClassExample2_Malit.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\ConsoleApp1\obj\Debug\ClassExample2_Malit.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\uno\Documents\ICTC1023\MALIT_Castillo_Nacino\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\uno\Documents\ICTC1023\Malit\ClassExample2_Malit\bin\Debug\ConsoleApp1.exe.config
+C:\Users\uno\Documents\ICTC1023\Malit\ClassExample2_Malit\bin\Debug\ConsoleApp1.exe
+C:\Users\uno\Documents\ICTC1023\Malit\ClassExample2_Malit\bin\Debug\ConsoleApp1.pdb
+C:\Users\uno\Documents\ICTC1023\Malit\ClassExample2_Malit\obj\Debug\ClassExample2_Malit.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\Malit\ClassExample2_Malit\obj\Debug\ClassExample2_Malit.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\Malit\ClassExample2_Malit\obj\Debug\ConsoleApp1.exe
+C:\Users\uno\Documents\ICTC1023\Malit\ClassExample2_Malit\obj\Debug\ConsoleApp1.pdb

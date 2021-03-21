@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExample1_Malit", "ClassExample1_Malit.csproj", "{426E38B6-FFFD-4A4E-A49B-B35D9C3D7AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426E38B6-FFFD-4A4E-A49B-B35D9C3D7AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426E38B6-FFFD-4A4E-A49B-B35D9C3D7AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426E38B6-FFFD-4A4E-A49B-B35D9C3D7AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426E38B6-FFFD-4A4E-A49B-B35D9C3D7AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC9E4DA6-F0AE-4318-BC7C-A53380DAAD26}
+	EndGlobalSection
+EndGlobal
