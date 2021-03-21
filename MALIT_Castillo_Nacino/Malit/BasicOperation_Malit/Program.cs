@@ -11,7 +11,7 @@ namespace BasicOperation_Malit
     {
         static void Main()
         {
-            //string opt = "No";
+          
             char opt;
             do
             {
@@ -30,7 +30,7 @@ namespace BasicOperation_Malit
                 rem.remainder();
                 Console.Write("\t\t\tWant to try again[Y/N]: ");
                 opt = Convert.ToChar(Console.ReadLine());
-            } while (opt != ('N'));
+            } while (opt != ('N'));    //i added loop for the user can reuse the program.
         }
     }
 }
