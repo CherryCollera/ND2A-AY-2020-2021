@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\Nacino\ClassExample2_Nacino\bin\Debug\ClassExample2_Nacino.exe.config
+C:\Users\uno\Documents\ICTC1023\Nacino\ClassExample2_Nacino\bin\Debug\ClassExample2_Nacino.exe
+C:\Users\uno\Documents\ICTC1023\Nacino\ClassExample2_Nacino\bin\Debug\ClassExample2_Nacino.pdb
+C:\Users\uno\Documents\ICTC1023\Nacino\ClassExample2_Nacino\obj\Debug\ClassExample2_Nacino.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\Nacino\ClassExample2_Nacino\obj\Debug\ClassExample2_Nacino.exe
+C:\Users\uno\Documents\ICTC1023\Nacino\ClassExample2_Nacino\obj\Debug\ClassExample2_Nacino.pdb
+C:\Users\uno\Documents\ICTC1023\Nacino\ClassExample2_Nacino\obj\Debug\ClassExample2_Nacino.csprojAssemblyReference.cache
