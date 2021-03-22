@@ -1,0 +1,7 @@
+C:\Users\uno\Documents\ICTC1023\Castillo\ClassExample1_Castillo\bin\Debug\ClassExample1_Castillo.exe.config
+C:\Users\uno\Documents\ICTC1023\Castillo\ClassExample1_Castillo\bin\Debug\ClassExample1_Castillo.exe
+C:\Users\uno\Documents\ICTC1023\Castillo\ClassExample1_Castillo\bin\Debug\ClassExample1_Castillo.pdb
+C:\Users\uno\Documents\ICTC1023\Castillo\ClassExample1_Castillo\obj\Debug\ClassExample1_Castillo.csprojAssemblyReference.cache
+C:\Users\uno\Documents\ICTC1023\Castillo\ClassExample1_Castillo\obj\Debug\ClassExample1_Castillo.csproj.CoreCompileInputs.cache
+C:\Users\uno\Documents\ICTC1023\Castillo\ClassExample1_Castillo\obj\Debug\ClassExample1_Castillo.exe
+C:\Users\uno\Documents\ICTC1023\Castillo\ClassExample1_Castillo\obj\Debug\ClassExample1_Castillo.pdb

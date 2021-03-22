@@ -1,0 +1,7 @@
+C:\Users\uno\source\repos\BasicOperation_Castillo\obj\Debug\BasicOperation_Castillo.csprojAssemblyReference.cache
+C:\Users\uno\source\repos\BasicOperation_Castillo\obj\Debug\BasicOperation_Castillo.csproj.CoreCompileInputs.cache
+C:\Users\uno\source\repos\BasicOperation_Castillo\bin\Debug\BasicOperation_Castillo.exe.config
+C:\Users\uno\source\repos\BasicOperation_Castillo\bin\Debug\BasicOperation_Castillo.exe
+C:\Users\uno\source\repos\BasicOperation_Castillo\bin\Debug\BasicOperation_Castillo.pdb
+C:\Users\uno\source\repos\BasicOperation_Castillo\obj\Debug\BasicOperation_Castillo.exe
+C:\Users\uno\source\repos\BasicOperation_Castillo\obj\Debug\BasicOperation_Castillo.pdb
