@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WindowsFormsApp1_Malit/1.0.0": {
+        "runtime": {
+          "WindowsFormsApp1_Malit.dll": {}
+        },
+        "resources": {
+          "af-NA/WindowsFormsApp1_Malit.resources.dll": {
+            "locale": "af-NA"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsFormsApp1_Malit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
