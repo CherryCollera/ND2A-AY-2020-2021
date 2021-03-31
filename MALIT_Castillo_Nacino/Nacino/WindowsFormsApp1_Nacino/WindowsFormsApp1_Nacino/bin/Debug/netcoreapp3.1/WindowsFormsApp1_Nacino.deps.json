@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WindowsFormsApp1_Nacino/1.0.0": {
+        "runtime": {
+          "WindowsFormsApp1_Nacino.dll": {}
+        },
+        "resources": {
+          "af-NA/WindowsFormsApp1_Nacino.resources.dll": {
+            "locale": "af-NA"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsFormsApp1_Nacino/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
