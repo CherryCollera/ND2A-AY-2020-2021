@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Activity6_Castillo_Malit_Nacino/1.0.0": {
+        "runtime": {
+          "Activity6_Castillo_Malit_Nacino.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity6_Castillo_Malit_Nacino/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

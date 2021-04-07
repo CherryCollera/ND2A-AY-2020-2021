@@ -1,0 +1,17 @@
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\bin\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.exe
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\bin\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.deps.json
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\bin\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.runtimeconfig.json
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\bin\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.runtimeconfig.dev.json
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\bin\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.dll
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\bin\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.pdb
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.csprojAssemblyReference.cache
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.Calculator.resources
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.Form1.resources
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.Form3.resources
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.csproj.GenerateResource.cache
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.AssemblyInfoInputs.cache
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.AssemblyInfo.cs
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.csproj.CoreCompileInputs.cache
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.dll
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.pdb
+C:\Users\Trisha Castillo\source\repos\Activity6_Castillo_Malit_Nacino\obj\Debug\netcoreapp3.1\Activity6_Castillo_Malit_Nacino.genruntimeconfig.cache
