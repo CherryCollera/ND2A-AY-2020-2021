@@ -1,0 +1,11 @@
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\bin\Debug\students.mdb
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\bin\Debug\DataBinding_Nacino.exe.config
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\bin\Debug\DataBinding_Nacino.exe
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\bin\Debug\DataBinding_Nacino.pdb
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\obj\Debug\DataBinding_Nacino.csprojAssemblyReference.cache
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\obj\Debug\DataBinding_Nacino.Form1.resources
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\obj\Debug\DataBinding_Nacino.Properties.Resources.resources
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\obj\Debug\DataBinding_Nacino.csproj.GenerateResource.cache
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\obj\Debug\DataBinding_Nacino.csproj.CoreCompileInputs.cache
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\obj\Debug\DataBinding_Nacino.exe
+C:\Users\Trisha Castillo\Documents\Activity7_Nacino\DataBinding_Nacino\obj\Debug\DataBinding_Nacino.pdb
