@@ -1,0 +1,12 @@
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\bin\Debug\CartmanCollege.mdb
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\bin\Debug\DatabaseQuery_Castillo.exe.config
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\bin\Debug\DatabaseQuery_Castillo.exe
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\bin\Debug\DatabaseQuery_Castillo.pdb
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\obj\Debug\DatabaseQuery_Castillo.csprojAssemblyReference.cache
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\obj\Debug\DatabaseQuery_Castillo.Form1.resources
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\obj\Debug\DatabaseQuery_Castillo.Properties.Resources.resources
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\obj\Debug\DatabaseQuery_Castillo.csproj.GenerateResource.cache
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\obj\Debug\DatabaseQuery_Castillo.csproj.CoreCompileInputs.cache
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\obj\Debug\DatabaseQuery_Castillo.exe
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\obj\Debug\DatabaseQuery_Castillo.pdb
+C:\Users\Trisha Castillo\Documents\Activity8_Castillo\DatabaseQuery_Castillo\obj\Debug\DatabaseQuery_Castillo.Form2.resources
